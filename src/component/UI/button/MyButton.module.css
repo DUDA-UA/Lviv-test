@@ -1,0 +1,9 @@
+.createButton{
+    background: cornflowerblue;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
