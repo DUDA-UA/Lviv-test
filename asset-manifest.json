@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Lviv-test/static/css/main.71306f6c.chunk.css",
+    "main.js": "/Lviv-test/static/js/main.d0bb68d5.chunk.js",
+    "main.js.map": "/Lviv-test/static/js/main.d0bb68d5.chunk.js.map",
+    "runtime-main.js": "/Lviv-test/static/js/runtime-main.89385e84.js",
+    "runtime-main.js.map": "/Lviv-test/static/js/runtime-main.89385e84.js.map",
+    "static/css/2.383c0125.chunk.css": "/Lviv-test/static/css/2.383c0125.chunk.css",
+    "static/js/2.199267fc.chunk.js": "/Lviv-test/static/js/2.199267fc.chunk.js",
+    "static/js/2.199267fc.chunk.js.map": "/Lviv-test/static/js/2.199267fc.chunk.js.map",
+    "index.html": "/Lviv-test/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Lviv-test/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.71306f6c.chunk.css.map": "/Lviv-test/static/css/main.71306f6c.chunk.css.map",
+    "static/js/2.199267fc.chunk.js.LICENSE.txt": "/Lviv-test/static/js/2.199267fc.chunk.js.LICENSE.txt",
+    "static/media/apple.1e4cddf1.png": "/Lviv-test/static/media/apple.1e4cddf1.png",
+    "static/media/lemon.95abe2c2.png": "/Lviv-test/static/media/lemon.95abe2c2.png",
+    "static/media/orange.7d5fb4da.png": "/Lviv-test/static/media/orange.7d5fb4da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89385e84.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.199267fc.chunk.js",
+    "static/css/main.71306f6c.chunk.css",
+    "static/js/main.d0bb68d5.chunk.js"
+  ]
+}
